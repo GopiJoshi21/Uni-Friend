@@ -29,7 +29,6 @@ A one-stop solution to help you ace your exam.
 # What's next for Uni-Friend? 📈
 - Smoother UI and complete responsiveness.
 - Light and Dark Theme support.
-- Deploying the chatbot model on the cloud.
 
 <hr>
 
